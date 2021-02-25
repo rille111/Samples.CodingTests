@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienLanguageInterpreter", "AlienLanguageInterpreter\AlienLanguageInterpreter.csproj", "{1B12B70B-E122-4AE0-BAA0-052D8DDF14D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienLanguageInterpreter.Tests", "AlienLanguageInterpreter.Tests\AlienLanguageInterpreter.Tests.csproj", "{B52B0542-4E2D-4315-AEB7-4F1FB826B7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B12B70B-E122-4AE0-BAA0-052D8DDF14D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B12B70B-E122-4AE0-BAA0-052D8DDF14D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B12B70B-E122-4AE0-BAA0-052D8DDF14D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B12B70B-E122-4AE0-BAA0-052D8DDF14D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52B0542-4E2D-4315-AEB7-4F1FB826B7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52B0542-4E2D-4315-AEB7-4F1FB826B7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52B0542-4E2D-4315-AEB7-4F1FB826B7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52B0542-4E2D-4315-AEB7-4F1FB826B7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

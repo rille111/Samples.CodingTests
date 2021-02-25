@@ -1,0 +1,10 @@
+Kommentarer i kod
+MVC & Web API
+Linq
+SOLID, YAGNI, DRY
+Dependency Injection:	Ramverk, Moq
+Patterns: Singleton, Factory, Repository etc.
+noSQL databaser
+DevOps
+asynkron programmering a la TPL, async await
+Linq

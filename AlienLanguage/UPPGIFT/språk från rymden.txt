@@ -1,0 +1,11 @@
+3 5 5
+abc
+aca
+dac
+dbc
+ccd
+abc
+a(bc)(ca)
+(abc)(abc)(abc)
+d(azy)c
+(abc)c(cd)
